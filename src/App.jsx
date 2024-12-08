@@ -30,7 +30,7 @@ const App = () => {
       <Navbar user={user} onLogout={handleLogout} />
       <div>
         <Routes>
-          <Route path="/goheaven" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/destinations" element={<Destinations />} />
           <Route path="/destination/:id" element={<DetailsOfDestination />} />
           <Route path="/planner" element={<Planner />} />
