@@ -55,7 +55,7 @@ const Destinations = () => {
           <li
             key={dest.id}
             className={styles.card}
-            onClick={() => navigate(`/destination/${dest.id}`)}
+            onClick={() => navigate(`/goheaven/destination/${dest.id}`)}
           >
             <img
               src={dest.image}
