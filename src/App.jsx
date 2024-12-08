@@ -31,12 +31,18 @@ const App = () => {
       <div>
         <Routes>
           <Route path="/goheaven" element={<Home />} />
-          <Route path="/destinations" element={<Destinations />} />
-          <Route path="/destination/:id" element={<DetailsOfDestination />} />
-          <Route path="/planner" element={<Planner />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/loginn" element={<Login setUser={setUser} />} />
-          <Route path="/signup" element={<SignUp />} />
+          <Route path="/goheaven/destinations" element={<Destinations />} />
+          <Route
+            path="/goheaven/destination/:id"
+            element={<DetailsOfDestination />}
+          />
+          <Route path="/goheaven/planner" element={<Planner />} />
+          <Route path="/goheaven/about" element={<About />} />
+          <Route
+            path="/goheaven/loginn"
+            element={<Login setUser={setUser} />}
+          />
+          <Route path="/goheaven/signup" element={<SignUp />} />
         </Routes>
       </div>
       <Footer />

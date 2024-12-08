@@ -24,7 +24,7 @@ const Login = ({ setUser }) => {
         setUser(user);
         localStorage.setItem("user", JSON.stringify(user));
         setMessage("Login successful!");
-        navigate("/");
+        navigate("/goheaven/");
       } else {
         setMessage("Invalid email or password.");
       }
@@ -65,7 +65,7 @@ const Login = ({ setUser }) => {
         {message && <p className={styles.errorMsg}>{message}</p>}
         <div className={styles.switchLink}>
           <span>Don't have an account?</span>
-          <a href="/signup">Sign Up</a>
+          <a href="/goheaven/signup">Sign Up</a>
         </div>
       </div>
     </div>
