@@ -48,7 +48,7 @@ const Navbar = ({ user, onLogout }) => {
         <ul className={`${styles.navList} ${isMenuOpen ? styles.active : ""}`}>
           <li>
             <NavLink
-              to="/"
+              to="/goheaven/"
               className={({ isActive }) =>
                 isActive ? styles.activeLink : undefined
               }
@@ -59,7 +59,7 @@ const Navbar = ({ user, onLogout }) => {
           </li>
           <li>
             <NavLink
-              to="/destinations"
+              to="/goheaven/destinations"
               className={({ isActive }) =>
                 isActive ? styles.activeLink : undefined
               }
@@ -70,7 +70,7 @@ const Navbar = ({ user, onLogout }) => {
           </li>
           <li>
             <NavLink
-              to="/planner"
+              to="/goheaven/planner"
               className={({ isActive }) =>
                 isActive ? styles.activeLink : undefined
               }
@@ -81,7 +81,7 @@ const Navbar = ({ user, onLogout }) => {
           </li>
           <li>
             <NavLink
-              to="/about"
+              to="/goheaven/about"
               className={({ isActive }) =>
                 isActive ? styles.activeLink : undefined
               }
@@ -103,7 +103,7 @@ const Navbar = ({ user, onLogout }) => {
           </div>
         ) : (
           <NavLink
-            to="/signup"
+            to="/goheaven/signup"
             className={styles.loginBtn}
             onClick={() => setIsMenuOpen(false)}
           >
