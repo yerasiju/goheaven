@@ -25,7 +25,7 @@ const Home = () => (
             quasi praesentium.
           </p>
           <button className={styles.exploreButton}>
-            <a href="/destinations">Where to go?</a>
+            <a href="/goheaven/destinations">Where to go?</a>
           </button>
         </div>
       </div>
