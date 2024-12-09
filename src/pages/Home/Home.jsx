@@ -24,7 +24,10 @@ const Home = () => (
             itaque ipsa adipisci facere temporibus a nulla assumenda blanditiis,
             quasi praesentium.
           </p>
-          <button className={styles.exploreButton}>
+          <button
+            className={styles.exploreButton}
+            onClick={() => navigate(`/goheaven/destinations`)}
+          >
             <a href="/goheaven/destinations">Where to go?</a>
           </button>
         </div>

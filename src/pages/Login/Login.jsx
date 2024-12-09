@@ -65,7 +65,10 @@ const Login = ({ setUser }) => {
         {message && <p className={styles.errorMsg}>{message}</p>}
         <div className={styles.switchLink}>
           <span>Don't have an account?</span>
-          <a href="/goheaven/signup">Sign Up</a>
+
+          <a href="" onClick={() => navigate(`/goheaven/SignUp`)}>
+            Sign Up
+          </a>
         </div>
       </div>
     </div>
