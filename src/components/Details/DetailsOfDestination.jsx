@@ -35,7 +35,7 @@ const DetailsOfDestination = () => {
           ))}
         </ul>
       </div>
-      <a href="/destinations" className={styles.backButton}>
+      <a href="/goheaven/destinations/" className={styles.backButton}>
         Back to Destinations
       </a>
     </div>
