@@ -10,7 +10,7 @@ const Home = () => (
     <div className={styles.videoContainer}>
       <video
         className={styles.backgroundVideo}
-        src="/src/assets/video.mp4"
+        src="/goheaven/video.mp4"
         autoPlay
         muted
         loop

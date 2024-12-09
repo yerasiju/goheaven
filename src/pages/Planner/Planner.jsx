@@ -75,7 +75,7 @@ const Planner = () => {
       <section>
         <div className={styles.container}>
           <div className={styles.conImage}>
-            <img src="/src/assets/images/11.jpg" alt="Explore" />
+            <img src="/goheaven/images/11.jpg" alt="Explore" />
           </div>
           <div className={styles.conText}>
             <h1>Plan your trip!</h1>

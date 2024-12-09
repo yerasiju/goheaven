@@ -4,7 +4,7 @@
     "name": "Auckland",
     "category": "City",
     "region": "Oceania",
-    "image": "src/assets/images/aaa.jpg",
+    "image": "/goheaven/images/aaa.jpg",
     "description": "Auckland is a bustling city in New Zealand known for its vibrant culture, scenic harbors, and diverse attractions. It's a gateway to stunning natural landscapes.",
     "attractions": ["Sky Tower", "Waiheke Island", "Auckland Museum"]
   },
@@ -13,7 +13,7 @@
     "name": "Great Barrier Reef",
     "category": "Beach",
     "region": "Oceania",
-    "image": "src/assets/images/a.jpg",
+    "image": "/goheaven/images/a.jpg",
     "description": "The Great Barrier Reef is the world's largest coral reef system, offering unparalleled snorkeling, diving, and marine biodiversity experiences.",
     "attractions": ["Coral Reefs", "Hamilton Island", "Whitsundays"]
   },
@@ -22,7 +22,7 @@
     "name": "Mount Cook",
     "category": "Mountain",
     "region": "Oceania",
-    "image": "src/assets/images/aa.jpg",
+    "image": "/goheaven/images/aa.jpg",
     "description": "Mount Cook, or Aoraki, is the highest mountain in New Zealand and a paradise for climbers, hikers, and photographers.",
     "attractions": [
       "Hooker Valley Track",
@@ -35,7 +35,7 @@
     "name": "Milford Sound",
     "category": "Park",
     "region": "Oceania",
-    "image": "src/assets/images/11.jpg",
+    "image": "/goheaven/images/11.jpg",
     "description": "Known as the 'Eighth Wonder of the World,' Milford Sound is a fjord in New Zealand with dramatic cliffs and waterfalls.",
     "attractions": ["Mitre Peak", "Stirling Falls", "Fiordland National Park"]
   },
@@ -44,7 +44,7 @@
     "name": "Paris",
     "category": "City",
     "region": "Europe",
-    "image": "src/assets/images/london2.jpg",
+    "image": "/goheaven/images/london2.jpg",
     "description": "Paris, the 'City of Light,' is a global hub of art, fashion, gastronomy, and culture. It's home to iconic landmarks like the Eiffel Tower.",
     "attractions": ["Eiffel Tower", "Louvre Museum", "Notre Dame Cathedral"]
   },
@@ -53,7 +53,7 @@
     "name": "Santorini",
     "category": "Beach",
     "region": "Europe",
-    "image": "src/assets/images/dubai2.jpg",
+    "image": "/goheaven/images/dubai2.jpg",
     "description": "Santorini is a Greek island famous for its whitewashed buildings, blue-domed churches, and stunning sunsets over the Aegean Sea.",
     "attractions": ["Oia Village", "Red Beach", "Fira Town"]
   },
@@ -62,7 +62,7 @@
     "name": "Swiss Alps",
     "category": "Mountain",
     "region": "Europe",
-    "image": "src/assets/images/sidney3.jpg",
+    "image": "/goheaven/images/sidney3.jpg",
     "description": "The Swiss Alps are a mountain range known for breathtaking scenery, skiing resorts, and alpine villages.",
     "attractions": ["Matterhorn", "Jungfrau Region", "Lake Geneva"]
   },
@@ -71,7 +71,7 @@
     "name": "Plitvice Lakes",
     "category": "Park",
     "region": "Europe",
-    "image": "src/assets/images/2.jpg",
+    "image": "/goheaven/images/2.jpg",
     "description": "Plitvice Lakes National Park in Croatia is renowned for its cascading lakes, waterfalls, and lush forests.",
     "attractions": ["Veliki Slap", "Lake Kozjak", "Boardwalk Trails"]
   },
@@ -80,7 +80,7 @@
     "name": "Tokyo",
     "category": "City",
     "region": "Asia",
-    "image": "src/assets/images/tokyo2.jpg",
+    "image": "/goheaven/images/tokyo2.jpg",
     "description": "Tokyo, the capital of Japan, is a bustling metropolis blending ultramodern technology with traditional culture.",
     "attractions": ["Shibuya Crossing", "Tokyo Tower", "Asakusa Temple"]
   },
@@ -89,7 +89,7 @@
     "name": "Bali",
     "category": "Beach",
     "region": "Asia",
-    "image": "src/assets/images/dubai1.jpg",
+    "image": "/goheaven/images/dubai1.jpg",
     "description": "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs.",
     "attractions": ["Ubud", "Tanah Lot Temple", "Kuta Beach"]
   },
@@ -98,7 +98,7 @@
     "name": "Mount Everest",
     "category": "Mountain",
     "region": "Asia",
-    "image": "src/assets/images/aa.jpg",
+    "image": "/goheaven/images/aa.jpg",
     "description": "Mount Everest is the world's tallest mountain and a symbol of adventure and endurance.",
     "attractions": [
       "Base Camp Trek",
@@ -111,7 +111,7 @@
     "name": "Kaziranga National Park",
     "category": "Park",
     "region": "Asia",
-    "image": "src/assets/images/aaa.jpg",
+    "image": "/goheaven/images/aaa.jpg",
     "description": "Kaziranga National Park in India is a UNESCO World Heritage site known for its population of one-horned rhinoceroses.",
     "attractions": ["Jeep Safari", "Elephant Rides", "Wildlife Spotting"]
   }

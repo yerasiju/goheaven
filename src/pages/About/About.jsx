@@ -5,17 +5,17 @@ const aboutSections = [
   {
     title: "Our Vision",
     text: "Empowering every traveler to feel confident and prepared by eliminating the stress of flying with clear, up-to-date information.",
-    image: "src/assets/images/aa.jpg",
+    image: "/goheaven/images/aa.jpg",
     alt: "Vision",
   },
   {
     title: "Our Mission",
     text: "To enhance your air travel with expert guidance, personalized support, and a vibrant traveler community.",
-    image: "src/assets/images/aaa.jpg",
+    image: "/goheaven/images/aaa.jpg",
     alt: "Mission",
   },
   {
-    image: "src/assets/images/a.jpg",
+    image: "/goheaven/images/a.jpg",
     title: "Our Work",
     text: `
       Guides: Everything from booking to in-flight comfort.<br/>
